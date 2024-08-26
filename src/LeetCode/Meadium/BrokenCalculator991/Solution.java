@@ -15,6 +15,6 @@ public class Solution {
         return result + (startValue - target);
     }
     public static void main(String[] args) {
-        System.out.println(brokenCalc(5, 8));
+        System.out.println(brokenCalc(100, 300));
     }
 }
